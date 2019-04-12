@@ -1,0 +1,19 @@
+.table {
+    display: table;
+}
+.row {
+    display: table-row;
+}
+.col {
+    display: table-cell;
+    border: solid black 1px;
+    padding: 5px;
+}
+.title {
+    text-decoration: underline;
+    text-align: right;
+}
+.data {
+    color: red;
+    font-weight: bold;
+}
