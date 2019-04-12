@@ -20,3 +20,8 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function programmerInfo() {
+	info = "Jakub Rak";
+	navigator.notification.alert(info);
+}
